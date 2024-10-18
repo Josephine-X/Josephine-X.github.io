@@ -7,10 +7,15 @@ body{
 #nimi{
     font-size:84px;
     font-weight:600;
-    font-family:agdasima;
+    font-family:agdasima,sans-serif;
     margin:20px 0 10px 20px;
     overflow:hidden;
     text-wrap:nowrap;
+}
+#katkoviiva{
+    display:inline-block;
+    vertical-align:middle;
+    transform:translateY(-50%);
 }
 #nimi>span{
     display:inline-block;
