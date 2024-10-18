@@ -122,7 +122,7 @@ footer>div{
         }
     #katkoviiva>rect{
         stroke-width:7px;
-        stroke-dasharray:25 8;
+        stroke-dasharray:30 8;
     }  
     #muut{
         font-size:21px;
