@@ -16,6 +16,10 @@ body{
     display:inline-block;
     vertical-align:middle;
     transform:translateY(-50%);
+    height:10px;
+}
+#katkoviiva>rect{
+    stroke-width:10px;
 }
 #nimi>span{
     display:inline-block;
@@ -112,6 +116,12 @@ footer>div{
     #nimi>span{
         border:5px solid black;
     }
+    #katkoviiva{
+        height:7px;
+        }
+    #katkoviiva>rect{
+        stroke-width:7px;
+    }  
     #muut{
         font-size:21px;
         margin:10px 0px;
