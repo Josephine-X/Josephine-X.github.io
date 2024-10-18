@@ -20,6 +20,7 @@ body{
 }
 #katkoviiva>rect{
     stroke-width:10px;
+    stroke-dasharray:50 10;
 }
 #nimi>span{
     display:inline-block;
@@ -121,6 +122,7 @@ footer>div{
         }
     #katkoviiva>rect{
         stroke-width:7px;
+        stroke-dasharray:35 8;
     }  
     #muut{
         font-size:21px;
