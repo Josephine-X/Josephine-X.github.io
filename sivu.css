@@ -10,7 +10,7 @@ body{
     font-family:agdasima;
     margin:20px 0 10px 20px;
     overflow:hidden;
-    text-wrap:no-wrap;
+    text-wrap:nowrap;
 }
 #nimi>span{
     display:inline-block;
