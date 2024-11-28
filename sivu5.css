@@ -45,6 +45,9 @@ polygon{
     margin:20px 0 0 20px;
     font-weight:200;
 }
+a{
+    color:rgb(40 110 230);
+}
 .elems{
     display:flex;
     margin:30px 0 0 0;
